@@ -9,7 +9,7 @@ What does "regex" mean? It's short for "regular expression" which in programming
 # Table of Contents
 * [Description](https://github.com/dorsariahi/module-17-challenge#Description)
 * [Usage](https://github.com/dorsariahi/module-17-challenge#Usage)
-* [Questions](https://github.com/dorsariahi/module-17-challenge#Questions
+* [Question](https://github.com/dorsariahi/module-17-challenge#Questions
 
 # Usage
 
